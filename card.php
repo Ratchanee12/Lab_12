@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="card-img-top" src="www/staff9.jpg">
+                    <img class="card-img-top" src="staff9.jpg">
                     <div class="card-body">
                         <h4class="card-title">The orange Country </h4>
                             <p class="card-text">So you can keep me.Inside the pocket of your rip jeans</p>
