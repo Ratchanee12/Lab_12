@@ -12,7 +12,6 @@
       crossorigin="anonymous"
     />
   </head>
-  aksdjalksjdl
   <body>
     <div class="container">
       <div class="row">
