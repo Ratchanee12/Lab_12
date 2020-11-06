@@ -12,13 +12,13 @@
       crossorigin="anonymous"
     />
   </head>
-
+  aksdjalksjdl
   <body>
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
           <img
-            src="www/office6.jpg"
+            src="office6.jpg"
             style="height: 300px"
             style="width: 100px"
             class="img-fluid rounded"
@@ -26,19 +26,19 @@
         </div>
         <div class="col-sm-3">
           <img
-            src="www/work1.jpg"
+            src="work1.jpg"
             style="height: 100px"
             style="width: 50px"
             class="img-fluid img-thumbnail"
           />
           <img
-            src="www/work3.jpg"
+            src="work3.jpg"
             style="height: 100px"
             style="width: 50px"
             class="img-fluid img-thumbnail"
           />
           <img
-            src="www/work7.jpg"
+            src="work7.jpg"
             style="height: 100px"
             style="width: 50px"
             class="img-fluid img-thumbnail"
@@ -46,13 +46,13 @@
         </div>
         <div class="col-sm-3">
           <img
-            src="www/office5.jpg"
+            src="office5.jpg"
             style="height: 200px"
             style="width: 50px"
             class="img-fluid"
           />
           <img
-            src="www/office4.jpg"
+            src="office4.jpg"
             style="height: 100px"
             style="width: 50px"
             class="img-fluid img-thumbnail"

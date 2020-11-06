@@ -25,7 +25,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="card-img-top" src="www/staff6.jpg">
+                    <img class="card-img-top" src="staff6.jpg">
                     <div class="card-body">
                         <h4class="card-title">The orange Country </h4>
                             <p class="card-text">one way or another, i'm gonna find ya, i'm gonna kiss you </p>
@@ -35,7 +35,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="card-img-top" src="www/staff5.jpg">
+                    <img class="card-img-top" src="staff5.jpg">
                     <div class="card-body">
                         <h4class="card-title">The orange Country </h4>
                             <p class="card-text">It's been a long way.Without you my friends</p>
